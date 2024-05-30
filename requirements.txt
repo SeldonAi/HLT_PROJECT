@@ -15,8 +15,13 @@ torchtext
 mapply
 wordcloud
 torchdata
+torcheval
 portalocker
 seaborn
 spacy
 transformers
 notebook
+datasets
+accelerate
+optuna
+optuna-dashboard
